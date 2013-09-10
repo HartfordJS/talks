@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/hartfordjs/talks.png?label=ready)](https://waffle.io/hartfordjs/talks)  
 talks
 =====
 
